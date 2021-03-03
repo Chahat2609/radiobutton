@@ -1,0 +1,5 @@
+txt=input("enter string")
+str1=txt.replace(txt,"chahat mundra")
+print(str1)
+str1=txt.swapcase()
+print(str1)
